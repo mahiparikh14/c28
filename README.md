@@ -1,2 +1,2 @@
-# c28
-constraint point
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
